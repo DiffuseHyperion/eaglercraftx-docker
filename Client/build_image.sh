@@ -11,7 +11,7 @@ if [ -d "$FILE" ]; then
 	fi
 	if [ -z "$1" ]; then
 		echo Building docker image with default name.
-		docker build -t diffusehyperion/eaglercraftxclient .
+		docker build -t diffusehyperion/eaglercraftx-client .
 	else
 		echo Building docker image with the name $1.
 		docker build -t $1 .
