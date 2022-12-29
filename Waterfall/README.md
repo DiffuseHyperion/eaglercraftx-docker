@@ -10,7 +10,7 @@ Example config:
 ```
 servers:
   lobby:
-    motd: '&1Just another BungeeCord - Forced Host'
+    motd: '&1Just another Waterfall - Forced Host'
     address: 192.168.1.230:25565
     restricted: false
 ```
