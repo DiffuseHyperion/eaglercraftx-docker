@@ -5,7 +5,7 @@ NO SUPPORT will be given for how to install Docker nor making a container. If yo
 
 ## Images
 
-Paper: https://hub.docker.com/r/diffusehyperion/eaglercraftx_paper
+Paper: https://hub.docker.com/r/diffusehyperion/eaglercraftx-paper
 
 Bungeecord: https://hub.docker.com/r/diffusehyperion/eaglercraftx-bungeecord
 
