@@ -3,6 +3,8 @@ Docker images for hosting EaglercraftX.
 
 NO SUPPORT will be given for how to install Docker nor making a container. If you do not know how to use docker, this isn't for you.
 
+Image-specific details will be in the appropriate folder.
+
 ## Images
 
 Paper: https://hub.docker.com/r/diffusehyperion/eaglercraftx-paper
