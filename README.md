@@ -5,8 +5,10 @@ NO SUPPORT will be given for how to install Docker nor making a container. If yo
 
 ## Images
 
-Paper: https://hub.docker.com/repository/docker/diffusehyperion/eaglercraftx_paper
+Paper: https://hub.docker.com/r/diffusehyperion/eaglercraftx_paper
 
-Bungeecord: https://hub.docker.com/repository/docker/diffusehyperion/eaglercraftx-bungeecord
+Bungeecord: https://hub.docker.com/r/diffusehyperion/eaglercraftx-bungeecord
+
+Waterfall: https://hub.docker.com/r/diffusehyperion/eaglercraftx-waterfall
 
 Client: [NOT PROVIDED, CLICK ME FOR DETAILS](https://github.com/DiffuseHyperion/eaglercraftx-docker/tree/main/Client)
