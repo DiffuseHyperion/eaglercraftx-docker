@@ -1,4 +1,4 @@
-FROM eclipse-temurin:8-jdk-alpine
+FROM eclipse-temurin:8-jdk-jammy
 
 ENV MIN_RAM=128M
 ENV MAX_RAM=128M

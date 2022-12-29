@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 DOWNLOAD_URL=https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar
 PLUGIN_DOWNLOAD_URL=https://gitlab.com/lax1dude/eaglercraftx-1.8/-/raw/main/gateway/EaglercraftXBungee/EaglerXBungee-Latest.jar
 
