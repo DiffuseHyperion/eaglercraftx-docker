@@ -7,6 +7,6 @@ Then, follow the normal compiling steps for EaglercraftX's client and set the ou
 
 Make sure to turn off offline downloads, this takes up unnecessary space, although the script will remove them if it exists.
 
-Once the client has finished compiling, run `build_image.sh`. You can either provide no arguments, which then it will produce the image with the tag `diffusehyperion/eaglercraftxclient`, or provide your own tag as an argument.
+Once the client has finished compiling, run `build_image.sh`. You can either provide no arguments, which then it will produce the image with the tag `diffusehyperion/eaglercraftx-client`, or provide your own tag as an argument.
 
 After that, run the image like any other image.
