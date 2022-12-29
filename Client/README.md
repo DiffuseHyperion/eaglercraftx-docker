@@ -1,5 +1,5 @@
 # IMPORTANT! READ ME!!!
-Due to the nature of EaglercraftX's client, I will not provide a download for the client. YOU MUST PROVIDE IT YOURSELF.
+Due to the nature of EaglercraftX's client, I will not provide an image for the client. YOU MUST CREATE ONE YOURSELF.
 
 To do this, first create a folder called `client` in this folder. This is case-sensitive.
 
